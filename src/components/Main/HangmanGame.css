@@ -1,0 +1,77 @@
+/* Button styling */
+.letterBtn {
+    width: 50px; 
+    height: 50px; 
+    outline: none; /* Removes outline */
+    border-radius: 5px; 
+    font-weight: bold; 
+    margin: 1px; 
+    border: none; 
+    transition: all 0.2s ease; /* Adds a transition effect */
+}
+
+/* Hover effect for letter buttons */
+.letterBtn:hover {
+    background-color: rgb(115, 159, 240); /* Change background color on hover */
+}
+
+/* Styling for used buttons */
+.used {
+    background-color:  rgb(115, 159, 240); 
+    color: rgba(0, 0, 0, 0.301); /* Set text color */
+}
+
+/* Spaces the letters out */
+.spacedLetters {
+    letter-spacing: 10px; 
+}
+
+/* Main body style */
+.full {
+    background-color: rgb(255, 255, 255); 
+    max-width: 900px; 
+    border-radius: 25px; 
+    height: 720px;
+    margin-left: auto; /* Align to left */
+    margin-right: auto; /* Align to right */
+}
+
+/* The div containing the hangman images */
+.imgDiv {
+    margin: auto; /* Center horizontally */
+    padding: 0px; 
+}
+
+/* Heading div at the top */
+.name {
+    width: 100%; 
+    height: 100px; 
+    text-align: center; 
+    justify-content: center; 
+    padding: 20px; 
+}
+
+/* Main div that holds everything */
+.body {
+    margin-top: 7%; 
+    margin-bottom: auto; 
+    align-items: center; 
+}
+
+/* New game button */
+.newgamebtn {
+    margin: 0px; 
+    padding: 0px; 
+    background-color:  rgb(115, 159, 240); 
+    font-weight: bold; 
+    border-radius: 8px; 
+    width: 150px; 
+    height: 50px; 
+    border: none; 
+    outline: none; 
+}
+
+/* Bolds the spans */
+span {
+    font-weight: bold; 
+}

@@ -1,0 +1,8 @@
+/* The div the images are in*/
+.imgDiv{
+    padding: 70px 0px;
+}
+/* Hangman styling*/
+img{
+    size: 12cm;
+}

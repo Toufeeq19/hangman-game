@@ -1,0 +1,28 @@
+/* Styles for the div containing the button */
+.help-div {
+    margin: 0px; 
+    padding: 0px;
+}
+
+/* Styles for the div containing the instructions modal */
+.modalBody {
+    background-color: rgb(115, 159, 240); 
+    position: sticky; 
+    margin: auto; 
+    text-align: center; 
+    width: 1000px; 
+    padding: 50px; 
+}
+
+/* Styles for the help button */
+.helpBtn {
+    background-color: rgb(115, 159, 240); /* Sets background color */
+    border-radius: 6px;
+    border: none;
+    font-weight: bold; 
+    width: 150px; 
+    height: 30px; 
+    margin: 15px; 
+    padding: 0px; 
+    transition: all 0.2s ease; /* Adds a transition effect */
+}

@@ -1,0 +1,11 @@
+/* Styles for the modal box */
+.modalBox {
+    background-color: rgb(115, 159, 240);
+    position: sticky; 
+    margin: auto; /* Center the modal horizontally */
+    padding-top: 50px;
+    height: 100px; 
+    width: 1000px; 
+    text-align: center; 
+}
+
