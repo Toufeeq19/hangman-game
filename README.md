@@ -1,7 +1,9 @@
 🎯 Hangman Game
+
 A classic word-guessing game reimagined with React! Test your vocabulary and deduction skills with this interactive Hangman game featuring over 5,000+ random words. Can you guess the word before the stick figure is complete?
 
 🚀 Live Demo
+
 🎮 Play the Hangman Game
 https://hangman-game-two-mu.vercel.app/
 
