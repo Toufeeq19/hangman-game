@@ -50,25 +50,6 @@ npm start
 Open your browser and go to:
 http://localhost:3000
 
-📁 Project Structure
-php
-Copy
-Edit
-hangman-react-game/
-│
-├── public/              # Static assets
-├── src/                 # React components and logic
-│   ├── components/      # UI components
-│   ├── data/            # Word dictionary
-│   └── App.js           # Main game logic
-├── package.json
-└── README.md
-📦 Dependencies
-Node.js
-
-React.js
-
-Bootstrap
 
 💡 Future Improvements
 🎨 Add dark/light theme toggle
