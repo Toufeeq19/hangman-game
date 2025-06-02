@@ -36,7 +36,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/hangman-react-game.git
+git clone [https://github.com/yourusername/hangman-react-game.git](https://github.com/Toufeeq19/hangman-game)
 cd hangman-react-game
 Install dependencies:
 
